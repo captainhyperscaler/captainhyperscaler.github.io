@@ -12,6 +12,9 @@ Information is also posted here about user groups and events that I am involved 
 
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
 
+<p><img class="size-full wp-image-7" src="https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/gh-pages/images/captain-hyperscaler-logo.png" alt="post" width="1000" height="563"></p>
+
+
 <!-- Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it. -->
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/captainhyperscaler/captainhyperscaler.github.io" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/DwayneNcloud" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://captainhyperscaler.github.io&text=Visit%20-%20My%20blog%20site%20Captain%20Hyperscaler%20for%20information%20to%20help%20in%20your%20cloud%20journey.&via=DwayneNcloud" color="#0d94e7" %} 
