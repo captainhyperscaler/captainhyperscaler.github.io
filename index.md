@@ -7,10 +7,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
 
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
+aside: true
 ---
-"Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
+Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
 
-Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
+Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community.
 
 ![](/images/captain-hyperscaler-logo.png)
 
