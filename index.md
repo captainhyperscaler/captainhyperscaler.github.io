@@ -12,7 +12,7 @@ Information is also posted here about user groups and events that I am involved 
 
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
 
-![](https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/captain-hyperscaler-logo.png)
+![](/images/captain-hyperscaler-logo.png)
 
 
 <!-- Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it. -->
