@@ -9,11 +9,11 @@ excerpt: "Captain Hyperscaler was created to share information about cloud techn
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
 aside: true
 ---
+![](/images/captain-hyperscaler-logo.png)
+
 Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
 
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community.
-
-![](/images/captain-hyperscaler-logo.png)
 
 
 <!-- Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it. -->
