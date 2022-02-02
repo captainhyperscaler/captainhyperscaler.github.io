@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Five Strategies and Microsoft Solutions that Protect Against Ransomware Attacks
-permalink: /posts/2022/
+categories:
+- '2022'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 **Five Strategies and Microsoft Solutions that Protect Against Ransomware Attacks**

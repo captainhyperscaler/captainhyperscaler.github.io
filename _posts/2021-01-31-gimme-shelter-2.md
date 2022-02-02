@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Gimme Shelter" Part 2...M365 Security
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":373,"sizeSlug":"large","linkDestination":"none"} -->

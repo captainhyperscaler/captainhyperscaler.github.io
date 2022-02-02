@@ -1,7 +1,9 @@
 ---
-layout: post
 title: "Gimme Shelter" Part 1...Security in Azure
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","width":383,"height":328} -->

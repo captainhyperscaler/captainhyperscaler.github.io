@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 2020 - My First Microsoft MVP Award
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":904,"sizeSlug":"large"} -->

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: So You want to be an Azure Solutions Architect Expert…the blog series...Security and Identity
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":689,"sizeSlug":"large"} -->

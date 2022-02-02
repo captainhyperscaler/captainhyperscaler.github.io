@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Azure Week - May 25-29
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"id":657,"sizeSlug":"large"} -->

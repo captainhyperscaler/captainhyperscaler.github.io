@@ -1,7 +1,9 @@
 ---
-layout: post
 title: My 2+ Year Microsoft Certification Journey
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":1291,"sizeSlug":"large","linkDestination":"none"} -->

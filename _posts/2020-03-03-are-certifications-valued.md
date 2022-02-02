@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Are Certifications Valued by Organizations?
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"id":125,"width":296,"height":187,"sizeSlug":"large"} -->

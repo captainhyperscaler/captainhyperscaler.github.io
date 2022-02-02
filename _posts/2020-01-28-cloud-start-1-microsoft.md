@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Where Do I Start with the Cloud?  Part 1 - Microsoft Azure
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 This image has an empty alt attribute; its file name is clouds-e1580309278738.png

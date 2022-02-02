@@ -1,7 +1,9 @@
 ---
-layout: post
 title: August Update... 2020 a Year for Growth
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":217,"width":543,"height":303,"sizeSlug":"large"} -->

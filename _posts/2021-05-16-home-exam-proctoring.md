@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Home proctoring Microsoft exams best practices
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"id":1256,"sizeSlug":"large"} -->

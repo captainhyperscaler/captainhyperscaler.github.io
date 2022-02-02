@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Choosing a Certification Path
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":1293,"sizeSlug":"large","linkDestination":"none"} -->
