@@ -147,7 +147,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/dwnatwick
   youtube: https://www.youtube.com/c/CaptainHyperscaler
   link: https://author.amazon.com/home
-  RSS: /feed.xml
+ # RSS: /feed.xml
 
  # link: https://captainhyperscaler.com  
 
