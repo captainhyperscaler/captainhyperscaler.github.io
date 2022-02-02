@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Your Brand...Does it help?
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":1150,"width":441,"height":375,"sizeSlug":"large","linkDestination":"none"} -->

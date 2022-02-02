@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Secure Best Practices - Keeping data secure in the public cloud
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:paragraph -->

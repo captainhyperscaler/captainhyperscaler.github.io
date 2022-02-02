@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Azure Back to School 2021 - Call for Content
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":552,"sizeSlug":"large"} -->

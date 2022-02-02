@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 4 WAYS A MULTI-CLOUD STRATEGY CAN SHAPE AN ORGANIZATION
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":373,"sizeSlug":"large"} -->

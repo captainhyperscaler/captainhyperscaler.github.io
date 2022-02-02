@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Demystifying Cloud Platform Services
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 

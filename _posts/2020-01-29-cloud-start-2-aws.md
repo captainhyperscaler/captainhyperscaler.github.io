@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Where Do I Start with the Cloud?  Part 2 - Amazon Web Services
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:paragraph -->

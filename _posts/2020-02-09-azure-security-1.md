@@ -1,7 +1,9 @@
 ---
-layout: post
 title: AZURE SECURITY PART 1 - UNDERSTANDING THE FOUNDATIONS OF AZURE SECURITY SERVICES
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"id":69,"sizeSlug":"large"} -->

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Security Operations on Google Cloud Platform
-
+categories:
+- '2022'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 **Security Operations on Google Cloud Platform**

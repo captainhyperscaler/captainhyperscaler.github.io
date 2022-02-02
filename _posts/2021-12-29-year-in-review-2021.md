@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 2021 in review. What's in store for 2022
-permalink: /posts/2021/
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:paragraph -->

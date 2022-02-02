@@ -1,7 +1,9 @@
 ---
-layout: post
 title: New and Next steps in my cloud journey
-
+categories:
+- '2021'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":404,"width":403,"height":269,"sizeSlug":"large"} -->

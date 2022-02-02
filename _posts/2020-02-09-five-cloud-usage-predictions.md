@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 5 PREDICTIONS ON THE FUTURE OF CLOUD USAGE
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":401,"sizeSlug":"large"} -->

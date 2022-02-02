@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 5 Things that I learned about a Windows Virtual Desktop deployment in Azure
-
+categories:
+- '2020'
+feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+aside: true
 ---
 
 <!-- wp:image {"align":"center","id":713,"width":383,"height":377,"sizeSlug":"large"} -->
