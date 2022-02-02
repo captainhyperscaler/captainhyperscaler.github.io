@@ -2,7 +2,7 @@
 title: Five Strategies and Microsoft Solutions that Protect Against Ransomware Attacks
 categories:
 - '2022'
-feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
+feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
 
