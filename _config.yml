@@ -122,8 +122,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
 - title: Blog
   url: /blog/
 - title: Categories
@@ -136,6 +134,8 @@ navigation_header:
   url: http://gimmecloudtalks.com
 - title: Azure Back to School
   url: http://azurebacktoschool.com
+  
+#- title: Elements url: /elements/
 
 navigation_footer:
 - title: Created by David Darnes, customized by Dwayne Natwick
