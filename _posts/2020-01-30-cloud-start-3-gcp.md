@@ -27,7 +27,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For now, we will focus on each of the providers options for gaining knowledge and certifications.  Previous articles have provided a roadmap for <a rel="noreferrer noopener" aria-label="Azure  (opens in a new tab)" href="https://captainhyperscaler.com/2020/01/28/where-do-i-start-with-the-cloud-part-1-microsoft-azure/" target="_blank">Azure </a>and <a rel="noreferrer noopener" aria-label="AWS (opens in a new tab)" href="https://captainhyperscaler.com/2020/01/29/where-do-i-start-with-the-cloud-part-2-amazon-web-services/" target="_blank">AWS</a>.  This post will focus on <a href="https://cloud.google.com/certification/" target="_blank" rel="noreferrer noopener" aria-label="Google Cloud Platform (GCP) (opens in a new tab)">Google Cloud Platform (GCP)</a>.</p>
+<p>For now, we will focus on each of the providers options for gaining knowledge and certifications.  Previous articles have provided a roadmap for <a rel="noreferrer noopener" aria-label="Azure  (opens in a new tab)" href="https://captainhyperscaler.github.io/2020/01/28/where-do-i-start-with-the-cloud-part-1-microsoft-azure/" target="_blank">Azure </a>and <a rel="noreferrer noopener" aria-label="AWS (opens in a new tab)" href="https://captainhyperscaler.github.io/2020/01/29/where-do-i-start-with-the-cloud-part-2-amazon-web-services/" target="_blank">AWS</a>.  This post will focus on <a href="https://cloud.google.com/certification/" target="_blank" rel="noreferrer noopener" aria-label="Google Cloud Platform (GCP) (opens in a new tab)">Google Cloud Platform (GCP)</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47,5 +47,5 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This completes the series on Where to Start with <a rel="noreferrer noopener" aria-label="Azure (opens in a new tab)" href="https://captainhyperscaler.com/2020/01/28/where-do-i-start-with-the-cloud-part-1-microsoft-azure/" target="_blank">Azure</a>, <a rel="noreferrer noopener" aria-label="AWS (opens in a new tab)" href="https://captainhyperscaler.com/2020/01/29/where-do-i-start-with-the-cloud-part-2-amazon-web-services/" target="_blank">AWS</a>, and <a href="http://where-do-i-start-with-the-cloud?-part-3:-google-cloud-platform" target="_blank" rel="noreferrer noopener" aria-label="GCP  (opens in a new tab)">GCP </a>certifications.  Good luck on your cloud certification journey.</p>
+<p>This completes the series on Where to Start with <a rel="noreferrer noopener" aria-label="Azure (opens in a new tab)" href="https://captainhyperscaler.github.io/2020/01/28/where-do-i-start-with-the-cloud-part-1-microsoft-azure/" target="_blank">Azure</a>, <a rel="noreferrer noopener" aria-label="AWS (opens in a new tab)" href="https://captainhyperscaler.github.io/2020/01/29/where-do-i-start-with-the-cloud-part-2-amazon-web-services/" target="_blank">AWS</a>, and <a href="http://where-do-i-start-with-the-cloud?-part-3:-google-cloud-platform" target="_blank" rel="noreferrer noopener" aria-label="GCP  (opens in a new tab)">GCP </a>certifications.  Good luck on your cloud certification journey.</p>
 <!-- /wp:paragraph -->

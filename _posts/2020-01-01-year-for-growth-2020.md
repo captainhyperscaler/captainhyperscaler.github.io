@@ -11,7 +11,7 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>In my previous post, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://captainhyperscaler.com/2020/01/09/2019-year-in-review/" target="_blank">http://captainhyperscaler.com/2020/01/09/2019-year-in-review/</a>, I provided a summary of how I continued to grow, develop, and spread knowledge within the Azure community.  In this article, I will provide some ways that I have thought of to continue sharing and growth in 2020.  </p>
+<p>In my previous post, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://captainhyperscaler.github.io/2020/01/09/2019-year-in-review/" target="_blank">http://captainhyperscaler.github.io/2020/01/09/2019-year-in-review/</a>, I provided a summary of how I continued to grow, develop, and spread knowledge within the Azure community.  In this article, I will provide some ways that I have thought of to continue sharing and growth in 2020.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

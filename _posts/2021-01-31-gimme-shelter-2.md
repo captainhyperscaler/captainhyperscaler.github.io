@@ -15,7 +15,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Part 1 of this series concluded on Friday, January 29 with Azure Sentinel, Part 1.  The episodes in this series focused on Azure security services, technologies, and best practices and kicked off on Halloween, October 31.  It included 13 videos spanning topics around Identity, Security, and Compliance within Azure.  The list of topics and links to the episodes can be found here: <a href="https://captainhyperscaler.com/2020/09/19/gimme-shelter-part-1-security-in-azure/">“Gimme Shelter” Part 1…Security in&nbsp;Azure</a>.</p>
+<p>Part 1 of this series concluded on Friday, January 29 with Azure Sentinel, Part 1.  The episodes in this series focused on Azure security services, technologies, and best practices and kicked off on Halloween, October 31.  It included 13 videos spanning topics around Identity, Security, and Compliance within Azure.  The list of topics and links to the episodes can be found here: <a href="https://captainhyperscaler.github.io/2020/09/19/gimme-shelter-part-1-security-in-azure/">“Gimme Shelter” Part 1…Security in&nbsp;Azure</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

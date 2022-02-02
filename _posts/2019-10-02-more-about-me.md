@@ -8,7 +8,7 @@ aside: true
 ---
 
 <!-- wp:paragraph -->
-<p>As I mentioned in my <a href="https://captainhyperscaler.com/2019/10/01/the-journey-begins/">Welcome post</a>, I think of myself as a life-long learner. I have always continued to educate myself in the latest technologies and attempted to gain the most valid certifications. This has included obtaining my Master's Degree in Business Information Technology, PMP certification, CISSP certification, AWS, and numerous Azure certifications. The latest list of certifications is why the "Captain Hyper-scaler" nickname has been given to me by some co-workers. </p>
+<p>As I mentioned in my <a href="https://captainhyperscaler.github.io/2019/10/01/the-journey-begins/">Welcome post</a>, I think of myself as a life-long learner. I have always continued to educate myself in the latest technologies and attempted to gain the most valid certifications. This has included obtaining my Master's Degree in Business Information Technology, PMP certification, CISSP certification, AWS, and numerous Azure certifications. The latest list of certifications is why the "Captain Hyper-scaler" nickname has been given to me by some co-workers. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":429,"width":337,"height":337,"sizeSlug":"large"} -->

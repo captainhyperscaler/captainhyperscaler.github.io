@@ -75,7 +75,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Azure Key Vault and Recovery Services Vault</strong>: Azure Key Vault and Recovery Services Vault are mentioned here because they do add additional security to your organization.  We discussed Recovery Services Vault briefly in the IaaS session (<a rel="noreferrer noopener" href="https://captainhyperscaler.com/2020/07/02/so-you-want-to-be-an-azure-solutions-architect-expertthe-blog-series-iaas/" target="_blank">https://captainhyperscaler.com/2020/07/02/so-you-want-to-be-an-azure-solutions-architect-expertthe-blog-series-iaas/</a>).  Recovery Services Vault is the foundation of Azure Backup and Azure Site Recovery.</p>
+<p><strong>Azure Key Vault and Recovery Services Vault</strong>: Azure Key Vault and Recovery Services Vault are mentioned here because they do add additional security to your organization.  We discussed Recovery Services Vault briefly in the IaaS session (<a rel="noreferrer noopener" href="https://captainhyperscaler.github.io/2020/07/02/so-you-want-to-be-an-azure-solutions-architect-expertthe-blog-series-iaas/" target="_blank">https://captainhyperscaler.github.io/2020/07/02/so-you-want-to-be-an-azure-solutions-architect-expertthe-blog-series-iaas/</a>).  Recovery Services Vault is the foundation of Azure Backup and Azure Site Recovery.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

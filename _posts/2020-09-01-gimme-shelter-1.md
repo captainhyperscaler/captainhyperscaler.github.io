@@ -11,7 +11,7 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>As my first blog series wraps up this month for "<a href="https://captainhyperscaler.com/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/" target="_blank" rel="noreferrer noopener">Breaking Down the Azure Network Chains</a>", I wanted to find a new series to bring to the community.  I have determined that this new series will be a two (2) part security series titled "Gimme Shelter".  </p>
+<p>As my first blog series wraps up this month for "<a href="https://captainhyperscaler.github.io/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/" target="_blank" rel="noreferrer noopener">Breaking Down the Azure Network Chains</a>", I wanted to find a new series to bring to the community.  I have determined that this new series will be a two (2) part security series titled "Gimme Shelter".  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

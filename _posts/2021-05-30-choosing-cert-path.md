@@ -11,7 +11,7 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>In my previous post, I shared my certification journey for Microsoft over the past 2+ years: <a rel="noreferrer noopener" href="https://captainhyperscaler.com/?p=1261" target="_blank">https://captainhyperscaler.com/?p=1261</a>.</p>
+<p>In my previous post, I shared my certification journey for Microsoft over the past 2+ years: <a rel="noreferrer noopener" href="https://captainhyperscaler.github.io/?p=1261" target="_blank">https://captainhyperscaler.github.io/?p=1261</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -87,5 +87,5 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>My hope within this article is to provide you with some clarity and guidance when determining a certification path.  I took my path as I explained in my previous post: <a rel="noreferrer noopener" href="https://captainhyperscaler.com/?p=1261" target="_blank">https://captainhyperscaler.com/?p=1261</a>, but you should find your own path and areas of interest as you journey through your Microsoft certifications.  I welcome your thoughts and feedback, and feel free to reach out on social media with any additional questions.  Thank you very much.</p>
+<p>My hope within this article is to provide you with some clarity and guidance when determining a certification path.  I took my path as I explained in my previous post: <a rel="noreferrer noopener" href="https://captainhyperscaler.github.io/?p=1261" target="_blank">https://captainhyperscaler.github.io/?p=1261</a>, but you should find your own path and areas of interest as you journey through your Microsoft certifications.  I welcome your thoughts and feedback, and feel free to reach out on social media with any additional questions.  Thank you very much.</p>
 <!-- /wp:paragraph -->

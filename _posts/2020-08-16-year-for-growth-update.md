@@ -11,7 +11,7 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>In this previous post, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://captainhyperscaler.com/2020/01/09/2019-year-in-review/" target="_blank">http://captainhyperscaler.com/2020/01/09/2019-year-in-review/</a>, I provided a summary of how I continued to grow, develop, and spread knowledge within the Azure community last year.  In this article, <a rel="noreferrer noopener" href="http://captainhyperscaler.com/2020/01/09/2020-a-year-for-growth/" target="_blank">http://captainhyperscaler.com/2020/01/09/2020-a-year-for-growth/</a>, I provided some ways that I have thought of to continue sharing and growth in 2020.  This article provides a "mid-ish" year update on my progress.</p>
+<p>In this previous post, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://captainhyperscaler.github.io/2020/01/09/2019-year-in-review/" target="_blank">http://captainhyperscaler.github.io/2020/01/09/2019-year-in-review/</a>, I provided a summary of how I continued to grow, develop, and spread knowledge within the Azure community last year.  In this article, <a rel="noreferrer noopener" href="http://captainhyperscaler.github.io/2020/01/09/2020-a-year-for-growth/" target="_blank">http://captainhyperscaler.github.io/2020/01/09/2020-a-year-for-growth/</a>, I provided some ways that I have thought of to continue sharing and growth in 2020.  This article provides a "mid-ish" year update on my progress.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -31,7 +31,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="text-decoration:underline;"><strong>UPDATE</strong></span>: I had the privilege and honor of being the guest speaker at FOCUS:HOPE's virtual graduation in the spring (<a rel="noreferrer noopener" href="http://captainhyperscaler.com/2020/05/01/inspirational-day-speaking-at-a-virtual-graduation-ceremony/" target="_blank">http://captainhyperscaler.com/2020/05/01/inspirational-day-speaking-at-a-virtual-graduation-ceremony/</a>). I loved hearing the great stories from some of the graduates and sharing my own career journey. </p>
+<p><span style="text-decoration:underline;"><strong>UPDATE</strong></span>: I had the privilege and honor of being the guest speaker at FOCUS:HOPE's virtual graduation in the spring (<a rel="noreferrer noopener" href="http://captainhyperscaler.github.io/2020/05/01/inspirational-day-speaking-at-a-virtual-graduation-ceremony/" target="_blank">http://captainhyperscaler.github.io/2020/05/01/inspirational-day-speaking-at-a-virtual-graduation-ceremony/</a>). I loved hearing the great stories from some of the graduates and sharing my own career journey. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47,7 +47,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In August, I began a YouTube video series, <strong>Breaking Down the Azure Network Chains</strong>, <a rel="noreferrer noopener" href="http://captainhyperscaler.com/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/" target="_blank">http://captainhyperscaler.com/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/</a>, with weekly videos each week on an Azure network service. </p>
+<p>In August, I began a YouTube video series, <strong>Breaking Down the Azure Network Chains</strong>, <a rel="noreferrer noopener" href="http://captainhyperscaler.github.io/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/" target="_blank">http://captainhyperscaler.github.io/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/</a>, with weekly videos each week on an Azure network service. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

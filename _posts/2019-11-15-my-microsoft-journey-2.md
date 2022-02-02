@@ -12,7 +12,7 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>As we continue My Microsoft Journey from Part I (<a href="https://captainhyperscaler.com/2019/11/05/my-microsoft-journey-part-i/">https://captainhyperscaler.com/2019/11/05/my-microsoft-journey-part-i/</a>), I have received four certifications in three months.  I felt confident about the certifications that I had achieved and how they could help me as a professional.  But how could I continue to grow my knowledge, and, more importantly, use this knowledge to assist others in their own growth.</p>
+<p>As we continue My Microsoft Journey from Part I (<a href="https://captainhyperscaler.github.io/2019/11/05/my-microsoft-journey-part-i/">https://captainhyperscaler.github.io/2019/11/05/my-microsoft-journey-part-i/</a>), I have received four certifications in three months.  I felt confident about the certifications that I had achieved and how they could help me as a professional.  But how could I continue to grow my knowledge, and, more importantly, use this knowledge to assist others in their own growth.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -95,7 +95,7 @@ lang: en-GB # Set the site language
 title: "Captain Hyperscaler" # Site name or title, also used in jekyll-seo-tag
 logo: "/images/captain-hyperscaler-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Captain Hyperscaler was created to share information about cloud technologies and the path to certification." # Site description and default description, also used in jekyll-seo-tag
-url: "https://captainhyperscaler.com" # Site url, also used in jekyll-seo-tag
+url: "https://captainhyperscaler.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/captainhyperscaler/captainhyperscaler.github.io"
 email: "dwayne.natwick@captainhyperscaler.com"
@@ -148,7 +148,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   link: https://amazon.com/author/dwaynenatwick
   RSS: /feed.xml
 
- # link: https://captainhyperscaler.com  
+ # link: https://captainhyperscaler.github.io  
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
