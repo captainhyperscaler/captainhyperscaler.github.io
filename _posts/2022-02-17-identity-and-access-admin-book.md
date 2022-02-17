@@ -6,6 +6,8 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
 
+**Identity and Access Administrator Associate Exam Prep book information**
+
 ![](images/1-Sc300.png)
 
 

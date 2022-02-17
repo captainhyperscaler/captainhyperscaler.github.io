@@ -6,6 +6,8 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
 
+**Becoming an Author - My Experience**
+
 Over the past 12 months, I have had the privilege of working on two certification guides for Packt Publishing.
 
 The books that I have been authoring are the Microsoft Identity and Access Administrator Associate (SC-300) exam preparation guide and the Microsoft Security Compliance and Identity Fundamentals (SC-900) exam preparation guide.
