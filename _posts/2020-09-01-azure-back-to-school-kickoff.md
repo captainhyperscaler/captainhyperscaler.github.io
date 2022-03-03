@@ -1,7 +1,7 @@
 ---
 title: AzureBacktoSchool Kick off 2020
 categories:
-- '2020'
+- 'Community'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: PREPARING FOR THE AZ-500 - AZURE SECURITY ENGINEER ASSOCIATE
 categories:
-- '2020'
+- 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

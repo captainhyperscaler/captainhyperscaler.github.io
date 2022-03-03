@@ -1,7 +1,7 @@
 ---
 title: 5 BENEFITS OF USING A CSP FOR MICROSOFT® CLOUD CONSUMPTION
 categories:
-- '2020'
+- 'Business'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

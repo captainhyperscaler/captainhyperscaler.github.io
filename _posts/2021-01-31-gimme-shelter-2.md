@@ -1,7 +1,7 @@
 ---
 title: "Gimme Shelter" Part 2...M365 Security
 categories:
-- '2021'
+- 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

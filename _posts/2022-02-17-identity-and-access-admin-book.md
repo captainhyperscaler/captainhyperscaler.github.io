@@ -1,7 +1,7 @@
 ---
 title: Identity and Access Administrator Associate Exam Prep book information
 categories:
-- '2022'
+- 'About-Updates'
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Becoming an Author - My Experience
 categories:
-- '2022'
+- 'About-Updates'
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---

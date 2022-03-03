@@ -1,7 +1,7 @@
 ---
 title: Posts located on Serverless Notes site
 categories:
-- '2022'
+- 'Technical'
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---

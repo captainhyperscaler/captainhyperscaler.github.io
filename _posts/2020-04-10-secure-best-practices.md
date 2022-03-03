@@ -1,7 +1,7 @@
 ---
 title: Secure Best Practices - Keeping data secure in the public cloud
 categories:
-- '2020'
+- 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

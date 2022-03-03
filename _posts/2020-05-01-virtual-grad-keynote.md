@@ -1,7 +1,7 @@
 ---
 title: Inspirational Day speaking at a virtual graduation ceremony
 categories:
-- '2020'
+- 'Community'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

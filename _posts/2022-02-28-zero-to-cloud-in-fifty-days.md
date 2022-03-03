@@ -1,7 +1,7 @@
 ---
 title: Cloudreach brings cloud acceleration to companies with Zero-to-Cloud in 50 days
 categories:
-- '2022'
+- 'Technical'
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---

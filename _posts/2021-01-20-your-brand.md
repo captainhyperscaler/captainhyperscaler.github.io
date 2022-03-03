@@ -1,7 +1,7 @@
 ---
 title: Your Brand...Does it help?
 categories:
-- '2021'
+- 'About-Updates'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

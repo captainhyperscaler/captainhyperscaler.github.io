@@ -1,7 +1,7 @@
 ---
 title: So You want to be an Azure Solutions Architect Expert…the blog series...Labs and Exam Prep
 categories:
-- '2020'
+- 'Certifications'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

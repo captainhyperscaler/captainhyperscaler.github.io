@@ -1,7 +1,7 @@
 ---
 title: New and Next steps in my cloud journey
 categories:
-- '2021'
+- 'About-Updates'
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---

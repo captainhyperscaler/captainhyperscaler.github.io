@@ -1,7 +1,7 @@
 ---
 title: 3's a Charm.  Understanding and Preparing for Azure Certifications
 categories:
-- '2019'
+- 'Certifications'
 
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true

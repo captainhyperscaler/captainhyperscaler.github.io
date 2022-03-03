@@ -1,7 +1,7 @@
 ---
 title: AzureSpringClean - Using Azure Policy and Security Center for Organizational Governance. https://www.azurespringclean.com/
 categories:
-- '2021'
+- 'Community'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Home proctoring Microsoft exams best practices
 categories:
-- '2021'
+- 'Certifications'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: MULTI-CLOUD ADOPTION AND SHARED RESPONSIBILITY - HOW CAN AN ORGANIZATION MANAGE?
 categories:
-- '2020'
+- 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
