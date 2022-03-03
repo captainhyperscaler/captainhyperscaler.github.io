@@ -8,7 +8,9 @@ aside: true
 
 **Identity and Access Administrator Associate Exam Prep book information**
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://1drv.ms/u/s!AnhcLZgTAB_Rl-ttpYnRl9z3S1bW4Q"/></figure></div>
+<!--
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://1drv.ms/u/s!AnhcLZgTAB_Rl-ttpYnRl9z3S1bW4Q"/></figure></div> 
+-->
 
 As I mentioned in my previous post "Becoming an author", I recently completed my first published book with the Microsoft Identity and Access Administrator Associate (SC-300) exam preparation guide.  
 
