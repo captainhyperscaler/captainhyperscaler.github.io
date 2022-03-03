@@ -1,7 +1,7 @@
 ---
 title: Where Do I Start with the Cloud?  Part 1 - Microsoft Azure
 categories:
-- '2020'
+- 'Certifications'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
