@@ -1,7 +1,7 @@
 ---
 title: What Can Certifications Do for Me?
 categories:
-- '2020', 'Certifications'
+- '2020'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
