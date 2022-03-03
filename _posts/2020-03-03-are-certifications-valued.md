@@ -1,7 +1,7 @@
 ---
 title: Are Certifications Valued by Organizations?
 categories:
-- '1 - Certifications'
+- 'Certifications'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
