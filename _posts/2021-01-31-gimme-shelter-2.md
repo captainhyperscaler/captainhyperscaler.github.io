@@ -12,7 +12,7 @@ aside: true
 
 This is a continuation of the two (2) part security series titled "Gimme Shelter".  The importance of securing your cloud and hybrid resources never decreases.
 
-Part 1 of this series concluded on Friday, January 29 with Azure Sentinel, Part 1.  The episodes in this series focused on Azure security services, technologies, and best practices and kicked off on Halloween, October 31.  It included 13 videos spanning topics around Identity, Security, and Compliance within Azure.  The list of topics and links to the episodes can be found here: <a href="https://captainhyperscaler.github.io/2020/09/19/gimme-shelter-part-1-security-in-azure/">“Gimme Shelter” Part 1…Security in&nbsp;Azure</a>.
+Part 1 of this series concluded on Friday, January 29 with Azure Sentinel, Part 1.  The episodes in this series focused on Azure security services, technologies, and best practices and kicked off on Halloween, October 31.  It included 13 videos spanning topics around Identity, Security, and Compliance within Azure.  The list of topics and links to the episodes can be found here: <a href="https://captainhyperscaler.github.io/2020/09/19/gimme-shelter-part-1-security-in-azure/">“Gimme Shelter” Part 1…Security in Azure</a>.
 
 <strong>Part 2 will premiere on February 5, 2021</strong>, and will focus on Microsoft/Office 365 security. I hope that you continue to enjoy and learn from these short weekly videos. Subscribe to the <a rel="noreferrer noopener" href="https://www.youtube.com/channel/UCIWicD_sUxH6EMH4ndG5NxQ" target="_blank">Captain Hyperscaler YouTube channel</a> for playlists and videos from all of my events. Thank you very much.  I have aligned these topics with those included within the Microsoft 365 Security Administrator exam (MS-500).
 

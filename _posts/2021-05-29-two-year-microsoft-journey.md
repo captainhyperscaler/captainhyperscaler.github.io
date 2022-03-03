@@ -119,7 +119,7 @@ aside: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I did something outrageous one week in February, I took all four of the new SC-xxx exams that were released in beta over the course of three days.  I wrote about it here: <a href="https://captainhyperscaler.github.io/2021/02/09/security-compliance-and-identity-exams/">Security, Compliance, and Identity&nbsp;exams</a>.  Only spending a couple hours in the evening on Microsoft Learn was not the best way to prepare for these exams.  </p>
+<p>I did something outrageous one week in February, I took all four of the new SC-xxx exams that were released in beta over the course of three days.  I wrote about it here: <a href="https://captainhyperscaler.github.io/2021/02/09/security-compliance-and-identity-exams/">Security, Compliance, and Identity exams</a>.  Only spending a couple hours in the evening on Microsoft Learn was not the best way to prepare for these exams.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

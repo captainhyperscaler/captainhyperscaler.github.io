@@ -34,7 +34,7 @@ Special Thanks to Richard Hooper and Gregor Suttie for coordinating this great #
     
 
 - <strong>On the sixth day of certification, Microsoft gave to me</strong>
-    - Six, exams &nbsp;for fundamentals 
+    - Six, exams  for fundamentals 
 
 - <strong>On the seventh day of certification, Microsoft gave to me</strong>    
     - Seven, certs with Data and AI focus

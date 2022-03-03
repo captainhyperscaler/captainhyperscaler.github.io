@@ -10,7 +10,7 @@ aside: true
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://captainhyperscaler.files.wordpress.com/2020/02/image-1.jpeg?w=300" alt="" class="wp-image-401"/></figure></div>
 
 
-The Cloud continues to evolve, and the only constant is how it is ever-changing. How do organizations keep up and make the most out of cloud usage?&nbsp; Where are the key drivers and areas of immediate benefit when adopting a cloud usage model?
+The Cloud continues to evolve, and the only constant is how it is ever-changing. How do organizations keep up and make the most out of cloud usage?  Where are the key drivers and areas of immediate benefit when adopting a cloud usage model?
 
 Here are five predictions for the future of cloud usage and how they can benefit your organization.
 

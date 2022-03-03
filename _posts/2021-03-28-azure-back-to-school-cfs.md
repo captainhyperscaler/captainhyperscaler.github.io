@@ -11,15 +11,15 @@ aside: true
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Azure Back to School is here again for 2021. &nbsp;<a href="https://azurebacktoschool.com" target="_blank" rel="noreferrer noopener">https://azurebacktoschool.com</a> </p>
+<p>Azure Back to School is here again for 2021.  <a href="https://azurebacktoschool.com" target="_blank" rel="noreferrer noopener">https://azurebacktoschool.com</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This event will focus on a month of videos on Microsoft cloud technologies. &nbsp;This year, we will open it up to Microsoft 365 and Power Platform as well, even under though still under the Azure title.&nbsp;</p>
+<p>This event will focus on a month of videos on Microsoft cloud technologies.  This year, we will open it up to Microsoft 365 and Power Platform as well, even under though still under the Azure title. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To keep in the spirit of education, I would like this event to be used as a mentoring opportunity. I would like our experienced community contributors to find someone that is interested in presenting but may be hesitant. Work with them on the Azure (or Microsoft 365 or Power Platform) topic, and create a video presentation together.&nbsp;</p>
+<p>To keep in the spirit of education, I would like this event to be used as a mentoring opportunity. I would like our experienced community contributors to find someone that is interested in presenting but may be hesitant. Work with them on the Azure (or Microsoft 365 or Power Platform) topic, and create a video presentation together. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

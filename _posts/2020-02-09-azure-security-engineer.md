@@ -10,7 +10,7 @@ aside: true
 <figure class="wp-block-image size-large"><a href="https://courses.skylinesacademy.com/?affcode=180879_p1mljie2" target="_blank"><img src="https://captainhyperscaler.files.wordpress.com/2019/10/afilliatebadge.jpg?w=900" alt="" class="wp-image-70"/></a></figure>
 
 
-Skylines Academy Approach&nbsp;
+Skylines Academy Approach 
 
 <strong>About the AZ-500 and Azure Security Engineer Associate Badge</strong>
 
