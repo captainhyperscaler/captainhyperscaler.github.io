@@ -10,6 +10,8 @@ aside: true
 
 As I mentioned in my previous post "Becoming an author", I recently completed my first published book with the Microsoft Identity and Access Administrator Associate (SC-300) exam preparation guide.  
 
+![](/images/no1certguideSC300.png)
+
 This has been an amazing, yet time consuming experience.  I see why people write books because it becomes something that is exhilarating. 
 
 The book is currently available on the Packt publishing website and you can pre-order the Kindle or Paperback version on Amazon.com.
