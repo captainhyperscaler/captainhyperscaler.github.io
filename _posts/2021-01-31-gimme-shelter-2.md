@@ -1,14 +1,14 @@
 ---
-title: "Gimme Shelter" Part 2...M365 Security
+title: Gimme Shelter Part 2 - M365 Security
 categories:
 - 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
 
+**Gimme Shelter Part 2...M365 Security**
 
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://captainhyperscaler.files.wordpress.com/2020/02/image.jpeg?w=300" alt="" class="wp-image-373"/></figure></div>
+![](/images/Wordpress-Images/image.jpeg)
 
 This is a continuation of the two (2) part security series titled "Gimme Shelter".  The importance of securing your cloud and hybrid resources never decreases.
 

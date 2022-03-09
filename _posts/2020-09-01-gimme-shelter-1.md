@@ -1,5 +1,5 @@
 ---
-title: "Gimme Shelter" Part 1...Security in Azure
+title: Gimme Shelter Part 1 - Security in Azure
 categories:
 - 'Technical'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
@@ -7,8 +7,6 @@ aside: true
 ---
 
 
-
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="See the source image" width="383" height="328"/><figcaption>Gimme Shelter</figcaption></figure></div>
 
 As my first blog series wraps up this month for "<a href="https://captainhyperscaler.github.io/2020/08/06/breaking-down-the-azure-network-chain-youtube-series/" target="_blank" rel="noreferrer noopener">Breaking Down the Azure Network Chains</a>", I wanted to find a new series to bring to the community.  I have determined that this new series will be a two (2) part security series titled "Gimme Shelter". 
 

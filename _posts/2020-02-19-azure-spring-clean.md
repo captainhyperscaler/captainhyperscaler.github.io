@@ -1,19 +1,17 @@
 ---
-title: Azure Spring Clean: Azure Storage and Backup Lifecycle Best Practices
+title: Azure Spring Clean - Azure Storage and Backup Lifecycle Best Practices
 categories:
 - 'Community'
 feature_image: "https://twentysixteendemo.files.wordpress.com/2015/11/post.png"
 aside: true
 ---
 
-
-<figure class="wp-block-image size-large"><img src="https://captainhyperscaler.files.wordpress.com/2020/02/thumbnail_asc13.png?w=1024" alt="" class="wp-image-472"/></figure>
+![](/images/Wordpress-Images/thumbnail_asc13.png)
 
 
 Welcome to Day 13 of the <a rel="noreferrer noopener" aria-label="Azure Spring Clean (opens in a new tab)" href="https://azurespringclean.com/" target="_blank">Azure Spring Clean</a> event.  Special thanks to <a rel="noreferrer noopener" aria-label="Joe Carlyle (opens in a new tab)" href="https://twitter.com/wedoazure" target="_blank">Joe Carlyle</a> and <a rel="noreferrer noopener" aria-label="Thomas Thornton (opens in a new tab)" href="https://twitter.com/tamstar1234" target="_blank">Thomas Thornton</a> for organizing this great event and allowing me to contribute.  I am very excited to add to the #AzureFamily contribution this month with some best practices on Storage and Backup lifecycle management within Azure.  
 
-
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="http://captainhyperscaler.files.wordpress.com/2020/02/2a159-0d-nwqyssprvp-oat.jpg" alt="Image result for three legged stool" width="126" height="126"/></figure></div>
+![](/images/Wordpress-Images/2a159-0d-nwqyssprvp-oat.jpg)
  
  
  Understanding the foundation of cloud services is important to this discussion.  I will use the "three legged stool" as an analogy for both cloud consumption costs, and storage within this discussion. As far at the three legs for cloud consumption of infrastructure, they are compute, networking and storage.  Yes, there are platform services that incur costs (i.e. app services and database services), but they fundamentally are based on the "three legs".  Therefore, to optimize your costs within the cloud, you must optimize the use of these three legs.  This article will focus on the storage aspect of this stool.  
