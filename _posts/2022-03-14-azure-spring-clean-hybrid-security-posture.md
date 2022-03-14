@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
 
-Thank you very much to Joe Carlyle (@wedoazure) and Thomas Thornton (@tamstar1234) for organizing this event again this year.  This is my third year participating and find this to be a great initiative with great content. Follow the #AzureSpringClean hashtag for daily content on https://www.azurespringclean.com/. Follow #AzureSpringClean on social media for daily posts on content.
+Thank you very much to Joe Carlyle (@wedoazure) and Thomas Thornton (@tamstar1234) for organizing this event again this year.  This is my third year participating and find this to be a great initiative with great content. Follow the #AzureSpringClean hashtag for daily content on <https://www.azurespringclean.com/>. Follow #AzureSpringClean on social media for daily posts on content.
 
 ![](/images/azurespringclean2022.png)
 
@@ -69,11 +69,11 @@ Figure 1 shows how the Azure and non-Azure infrastructure that can be monitored 
 ![](/images/DefenderforCloud-EnhancedSec.png)
 
 
-More information on these enhanced security features can be found at this link: https://docs.microsoft.com/en-us/azure/defender-for-cloud/enhanced-security-features-overview?WT.mc_id=Portal-Microsoft_Azure_Security.  
+More information on these enhanced security features can be found at this link: <https://docs.microsoft.com/en-us/azure/defender-for-cloud/enhanced-security-features-overview?WT.mc_id=Portal-Microsoft_Azure_Security>.  
 
 Now that we understand the features and functionality of Microsoft Defender for Cloud, we can configure resources to manage your security posture.
 
-We will start by logging into https://portal.azure.com and in the search bar, enter Microsoft Defender for Cloud. Select Microsoft Defender for Cloud as shown in figure 2 below.
+We will start by logging into <https://portal.azure.com> and in the search bar, enter Microsoft Defender for Cloud. Select Microsoft Defender for Cloud as shown in figure 2 below.
 
 ![](/images/azureportal.png)
 
@@ -139,11 +139,11 @@ Thank you and enjoy the rest of Azure Spring Clean.
 
 **Reference links**:
 
-https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360 
+<https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360> 
 
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc
+<https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc>
 
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings
+<https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings>
 
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings
+<https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings>
 
