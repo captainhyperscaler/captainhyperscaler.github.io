@@ -16,13 +16,13 @@ I have recently begun that journey with the AWS Solution Architect Associate exa
 
 There are some differences that you and I need to understand, and the terminology is different between Azure and AWS.  So, I am going to help myself in preparation by documenting these differences in hopes that it will help others that have the same aspirations for Azure, AWS, and GCP.
 
-Below is the list of topics that I plan to cover and document.  Check back here for updated links as well as at our homepage: <captainhyperscaler.github.io>.  After I have completed the AWS series, stay tuned for the same for GCP.
+Below is the list of topics that I plan to cover and document.  Check back here for updated links as well as at our homepage: <https://captainhyperscaler.github.io>.  After I have completed the AWS series, stay tuned for the same for GCP.
 
 Let's begin our journey together. Thank you.
 
 **Reference links**:
 
-What I've Learned about IAM on AWS <captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
+What I've Learned about IAM on AWS <https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
 
 What I've Learned about S3 on AWS
 
