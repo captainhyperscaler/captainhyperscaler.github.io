@@ -25,6 +25,7 @@ Let's begin our journey together. Thank you.
 What I've Learned about IAM on AWS <https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
 
 What I've Learned about S3 on AWS
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-s3> 
 
 What I've Learned about EC2 on AWS
 
