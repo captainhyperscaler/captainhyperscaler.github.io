@@ -6,16 +6,18 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
 
-This is the first part of a series that I have decided to begin as I start a new journey.
+This is the first post of content for preparing yourself for becoming an AWS Solutions Architect Associate.
 
 ![](images/../../images/Wordpress-Images/awscerts.png)
+
+We are going to start by discussing AWS Identity and Access Management (IAM).  As cloud architects and engineers we know already that IAM is extremely important to protecting our cloud infrastructures. That is no different within AWS.
 
 
 
 **Reference links**:
 
 What I've Learned about IAM on AWS
-<> 
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/21/aws-iam> 
 
 What I've Learned about S3 on AWS
 
