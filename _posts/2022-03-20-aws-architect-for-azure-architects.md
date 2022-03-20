@@ -22,7 +22,7 @@ Let's begin our journey together. Thank you.
 
 **Reference links**:
 
-What I've Learned about IAM on AWS <https://captainhyperscaler.github.io/amazon-web-services/2022/03/21/aws-iam> 
+What I've Learned about IAM on AWS <https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
 
 What I've Learned about S3 on AWS
 
