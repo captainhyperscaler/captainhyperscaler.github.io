@@ -22,14 +22,24 @@ Let's begin our journey together. Thank you.
 
 **Reference links**:
 
-What I've Learned about IAM on AWS <https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
+What I've Learned about IAM on AWS 
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-iam> 
 
 What I've Learned about S3 on AWS
+
 <https://captainhyperscaler.github.io/amazon-web-services/2022/03/20/aws-s3> 
 
 What I've Learned about EC2 on AWS
 
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/22/aws-ec2> 
+
 What I've Learned about EBS on AWS
+
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/22/aws-ebs> 
+
+What I've Learned about Cloudwatch on AWS
+
+<https://captainhyperscaler.github.io/amazon-web-services/2022/03/22/aws-cloudwatch> 
 
 What I've Learned about RDS on AWS
 
