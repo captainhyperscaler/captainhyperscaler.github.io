@@ -20,6 +20,13 @@ Below is the list of topics that I plan to cover and document.  Check back here 
 
 Let's begin our journey together. Thank you.
 
+And thank you to Feedspot for listing this blog site in the top 100 sites for AWS and Azure:
+
+#21 on AWS: <https://blog.feedspot.com/aws_blogs/>
+
+#51 on Azure: <https://blog.feedspot.com/microsoft_azure_blogs/>
+
+
 **Reference links**:
 
 What I've Learned about IAM on AWS 
