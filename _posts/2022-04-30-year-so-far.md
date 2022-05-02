@@ -29,6 +29,7 @@ Let's take a look at some of the progress from what I expected to be doing at th
 - SC-300 and SC-900 Books will be published
   - Update: SC-300 is available and shipping from Amazon in Paperback and Kindle versions.
   - SC-900 book is complete and will be shipping in June.  It is currently available for pre-order on Amazon. 
+  - Books can be found on Amazon at this link: <https://aka.ms/dwaynesbooks>
   - **I am starting the SC-100 Microsoft Cybersecurity Architect exam guide in May 2022 with expected release in December 2022**.
 
 - Community study group and pass the CCSP exam
