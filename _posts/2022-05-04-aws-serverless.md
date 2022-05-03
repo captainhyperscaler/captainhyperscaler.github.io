@@ -75,6 +75,11 @@ As I have done previously let's look at the similarities and differences to the 
 - Works with ECS, EKS, and on-premises
 - Integrated with IAM
 
+**ECS Security**
+
+- EC2 Instance Role
+- Task Role - more granular control based on tasks rather than instance. Least privilege approach.
+
 
 
 This is the final post in the preparation for the AWS Solution Architect Associate exam.  This has been helpful in preparing me to comprehend AWS services for the exam.  I hope that you find it to do the same.  Thank you very much.
