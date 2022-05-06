@@ -20,7 +20,8 @@ Let's take a look at some of the progress from what I expected to be doing at th
   - Update: have not gotten here yet, but on my list of certifications for this year.
 
 - AWS certifications - Security specialty, Professional Solutions Architect
-  - Update: I started preparing for the Solutions Architect Associate in April and created a blog series as a study guide for everyone. This series can be accessed here: <https://captainhyperscaler.github.io/certifications/2022/03/20/aws-architect-for-azure-architects/>.  Doing this series got me listed at number 21 of the top 30 AWS blogs by Feedspot. <https://blog.feedspot.com/aws_blogs/>. I'm also listed on the top 100 Azure blogs, <https://blog.feedspot.com/microsoft_azure_blogs/>
+  - Update: I started preparing for the Solutions Architect Associate in April and created a blog series as a study guide for everyone. This series can be accessed here: <https://captainhyperscaler.github.io/certifications/2022/03/20/aws-architect-for-azure-architects/>.  
+  - Doing this series got me listed at number 20 of the top 30 AWS blogs by Feedspot. <https://blog.feedspot.com/aws_blogs/>. I'm also listed on the top 100 Azure blogs, <https://blog.feedspot.com/microsoft_azure_blogs/>.  Thank you to the team at Feedspot for this honor.
   - As for the **Security Specialty, I will be writing an on-demand video course for EC-Council on preparing for this exam over the next 90 days**.
 
 - Deliver Azure workshops for Cloud Adoption Framework to business and technical professionals
