@@ -14,8 +14,6 @@ The new model for identity and access increases the flexibility of users and dev
 
 However, user identities today have a strong reliance on usernames and passwords for access to applications. Utilization of multi-factor authentication (MFA) along with conditional access policies help to mitigate some of the risk. Companies should be reviewing and planning ways to optimize identity and access management to decrease or remove the requirement of passwords.
 
-zero trust
-Figure 1 – Expanded access to multiple sources needing IAM.
 The optimal approach to identity and access management is to utilize the following tips:
 
 Password-less authentication is enabled across all devices and applications.
