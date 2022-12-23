@@ -10,15 +10,15 @@ Modern authentication utilizing Identity Providers within the cloud creates a un
 
 In addition to the sprawl of email addresses as the primary form of identification, most users utilize the same password for multiple sites within multiple geographies. This scenario creates the potential for identity theft and, if it is a work email address, potential identity breach and data theft. This article will provide some options for adopting multi-factor authentication and protecting identities with Conditional Access.
 
-Multi-Factor Authentication
+**Multi-Factor Authentication**
 Multi-factor authentication, or MFA, addresses the potential of a password to be compromised by requiring the user requesting access to provide an additional form of identification before they are authenticated and authorized access. There are three forms of identification that are used for MFA, and MFA is configured to require any two of these three factors to verify a user’s identity. The three forms are:
 
-Something you know
-Something you have
-Something you are
+- Something you know
+- Something you have
+- Something you are
 Let’s look at each of these in more detail by defining each and giving some examples of how they’re used.
 
-conditional access
+**Conditional access**
 
 Something You Know
 Something you know is a form of identification that you provide from your memory. This is in many cases your password. It could also be a personal identification number (PIN) or the answer to a security question. In most systems for verification, this is usually the primary form of verification and then the second form is one of the next two options.
@@ -33,7 +33,7 @@ Something you are is when some form of biometrics is used as the second factor f
 Figure 1 shows how these three factors can work together to provide the verification of user identities for authentication.
 
 mfa authentication
-Figure 1 – Diagram of MFA.
+
 Utilizing MFA for users addresses the challenge of a compromised username and password. If enabled and enforced correctly, MFA will protect against almost all identity attacks. Unfortunately, there are challenges to using MFA. Let’s discuss some of these and how to mitigate and remediate the challenges.
 
 User Adoption
@@ -46,18 +46,17 @@ For example, making a user access a one-time expiring code that is sent through 
 
 
 
-Man-in-the-Middle and Social Engineering
+**Man-in-the-Middle and Social Engineering**
 MFA fatigue has caused users to become careless about identity and access management. As was stated in the previous section, proper implementation is key. We have seen recent attacks where someone misrepresenting themselves as an IT resource has gained access to company resources by calling a user and social engineering them into providing both their password AND their MFA code.
 
 This can be further addressed and remediated with a push notification response, but also proper education about man-in-the-middle attacks such as this. Also, NEVER trust a caller that says that they are from your IT department. Ask their name and reach out to verify that this person is within your organization.  Microsoft recently announced some ways to address potential identity threats through authentication strength within conditional access policies.
 
-Applying Conditional Access Remediations
+**Applying Conditional Access Remediations**
 Conditional access policies are available within Azure AD, Identity Protection, and Microsoft Defender for Cloud Apps to enforce Zero Trust verification based on the user risk, device risk, location risk, type of application, sensitivity of the data being accessed, and other triggers.
 
-Figure 2 shows the workflow of Conditional Access policies in a Zero Trust methodology.
 
-mfa adoption
-Figure 2 – Conditional Access policy workflow.
+**MFA adoption**
+
 Conditional access policies look at the status of a user, device, location, application, or website at the time that it is being accessed and determines whether additional verification is required. Something to note is that this verification takes place even if the user has previously authenticated and used MFA. Therefore, you should still have MFA enforced to all users as a first step. Conditional access policies take this MFA enforcement an additional step as a user accesses company resources from another location or from other devices.
 
 Proper planning and stakeholder interaction is important to successfully implementing Zero Trust through Conditional access policies. Correctly planning and defining of how these policies will be enforced will avoid locking users out of systems that they require access. Conditional access policies can be tested with the What if functionality within the portal to provide a level of understanding as to how the policies will affect users, groups, and devices.
@@ -68,7 +67,7 @@ More information on accessing activity logs can be found here: How To: Access ac
 
 This continuous review and auditing of activity, along with access reviews to monitor and manage the governance of identity and access, can expose potential gaps in Zero Trust to address. The next section will discuss additional tools that can be used to bring this together.
 
-conditional access
+**Conditional access**
 
 Analytics to Bridge Gaps
 As discussed in the previous sections on federation, external identities, and conditional access policies, the governance and continuous auditing and assessing of an identity and access management environment is important. These reviews verify the need for users to have access to resources, potential vulnerabilities, and risks on users and devices, as well as activity anomalies within the environment.
@@ -77,7 +76,7 @@ The tools that are provided within Microsoft Entra for Permission management pro
 
 The Microsoft Entra admin center provides a full set of tools to review the identity and access management environment to determine these potential gaps.
 
-Closing Thoughts
+**Closing Thoughts**
 There are many different challenges and remediations for identity and access management within the cloud. Even though enforcing MFA can become a challenge, proper planning and communication to the users can make it very successful in protecting user and company information. Identity is the primary perimeter of protection within a cloud ecosystem, and you should do everything that you can to protect it. MFA is the first option and provides a low-cost solution to protect against identity theft. Just be sure that you take the proper precautions and address user objections prior to enforcement.
 
 This was originally posted here: <https://www.avepoint.com/blog/protect/mfa-adoption-conditional-access>
