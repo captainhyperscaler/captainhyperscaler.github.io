@@ -15,7 +15,8 @@ This will include what took place professionally, personally, and within the com
 
 **2023 Personal goals**
 
-
+AWS Security Engineer
+CAP
 <https://www.isc2.org/certificate/Risk-Management-Practitioner-Certificates>
 
 **2023 Community goals and activities**
