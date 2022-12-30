@@ -31,8 +31,9 @@ I earned some new certifications in 2022, though not in the volume of the past f
 In October, I passed and earned the (ISC)2 Certified Cloud Security Professional.  This exam was one that I took when it originally was released and narrowly missed the passing score.  I took this exam after they released the new version of the exam, and I passed on my first try.  The adjustments from the original exam created a much more pleasant exam taking experience.  I now hold the CISSP and CCSP certifications from (ISC)2.  I also became an Authorized (ISC)2 Instructor and look forward to teaching the Certified in Cybersecurity (CC), CISSP, and CCSP courses in 2023.  
 
 In December, I completed the ISC2 CISO Leadership Certificate Program to earn all five badges from this program.  I also tested on the three ISC2 Cloud Security Certificate Program course assessments to earn those badges.  These certificate programs provide great courseware at a reasonable price to sharpen your skills in cybersecurity for hybrid and cloud architectures.  More information can be found at these links:
-- ISC2 CISO Leadership Certificate Program: <https://www.isc2.org/certificate/CISO-Leadership-Certificates>
-- ISC2 Cloud Security Certificate Program: <https://www.isc2.org/certificate/cloud-security-certificate>
+- (ISC)2 CISO Leadership Certificate Program: <https://www.isc2.org/certificate/CISO-Leadership-Certificates>
+- (ISC)2 Risk Management Practitioner Certificate Program: <https://www.isc2.org/certificate/Risk-Management-Practitioner-Certificates>
+- (ISC)2 Cloud Security Certificate Program: <https://www.isc2.org/certificate/cloud-security-certificate>
 
 I also renewed my Microsoft Certified Trainer (MCT) and started my second two-year term as a MCT Regional Lead.  I completed renewals for eight (8) of my twelve (13) Associate and Expert Microsoft Certifications. The four (4) Associate Security (SC-xxx) certifications were still on a two year cycle and the Cybersecurity Architect Expert was on its first year, so I will have all 13 to renew in 2023.
 
