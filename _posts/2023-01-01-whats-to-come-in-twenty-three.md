@@ -41,6 +41,11 @@ I have said this in previous years, but want to stand behind it in 2023 with ave
 
 I also plan to continue Azure Back to School <https://azurebacktoschool.github.io> in 2023 with Derek Smith's assistance.  I have also opened a call for speakers for an AWS focused event, <https://sessionize.com/awsome-new-year-kick-start/>.  This was originally planned for February 2023, but may move out a couple of months to allow for speakers to submit their contributions.
 
+Community events that I hope to contribute again in 2023 include, among others:
+- Azure Spring Clean. <https://www.azurespringclean.com>
+- Global Azure. <https://globalazure.net>
+- Festive Tech Calendar. <https://festivetechcalendar.com>
+
 
 **Summary**
 
