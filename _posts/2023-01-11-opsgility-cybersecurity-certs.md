@@ -50,3 +50,8 @@ Read more > <https://opsgility.com/sharpen-your-skill-with-expert-level-cybersec
 Wait! Before you start, here are five important things to consider before selecting a cybersecurity certification.
 
 Read more > <https://opsgility.com/5-things-to-consider-when-choosing-a-cybersecurity-certification>
+
+In addition to this print content, I did a webcast with Matthew Browne about Certifications and Learning that is available on YouTube.
+<https://youtu.be/Nsj04Hnyag8>
+
+Thank you very much.  Enjoy and #AlwaysBeLearning
