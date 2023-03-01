@@ -9,7 +9,7 @@ aside: true
 # Architecting an AWS Zero Trust Framework #
 
 
-In this article, you will be provided with guidance toward architecting a Zero Trust Framework within your Azure infrastructure. This will include areas of focus for identity, networking, devices, applications, and data for a defense in depth security design. This article will close with a case study example of how to evaluate and consult for a Zero Trust Framework within your company or customer.
+In this article, you will be provided with guidance toward architecting a Zero Trust Framework within your Amazon Web Services (AWS) infrastructure. This will include areas of focus for identity, networking, devices, applications, and data for a defense in depth security design. This article will close with a case study example of how to evaluate and consult for a Zero Trust Framework within your company or customer.
 
 ### **What is Zero Trust?** ###
 
@@ -63,7 +63,7 @@ Administrative access to infrastructure resources should be time-bound and audit
 
 Network access through zero trust includes the isolation and segmentation between public and private networks. Providing proper permissions to the private networks will allow for availability to resources that users require while blocking potential attacks.
 
-Creating this separation within an on-premises network can be done through physical isolation of networks or virtual isolation with VLANs.  The VLAN principle can be applied within the cloud with virtual networks (VNETs) in Azure or virtual private clouds (VPCs) in AWS.  This virtual segmentation can be used to avoid public access to networks to leak into the private networks.  
+Creating this separation within an on-premises network can be done through physical isolation of networks or virtual isolation with VLANs.  The VLAN principle can be applied within the cloud with virtual networks (VNETs) in AWS or virtual private clouds (VPCs) in AWS.  This virtual segmentation can be used to avoid public access to networks to leak into the private networks.  
 
 Network access to through the infrastructure can be controlled with network access control lists, network security groups, and access policies.  
 
@@ -100,7 +100,7 @@ Let's look at how to apply these pillars within Amazon Web Services (AWS).
 Each of the pillars can be addressed within AWS by using their cloud native security and compliance tools. Let's take a look using an example.
 
 **Case study**
-Company ABC has concerns across their Azure, on-premises, and SaaS applications architecture.  They have come to you for assistance in addressing their security concerns.  They want you to provide suggestions on how they can use the security capabilities within AWS to enforce Zero-trust methodologies across the company’s technology infrastructure. 
+Company ABC has concerns across their AWS, on-premises, and SaaS applications architecture.  They have come to you for assistance in addressing their security concerns.  They want you to provide suggestions on how they can use the security capabilities within AWS to enforce Zero-trust methodologies across the company’s technology infrastructure. 
 
 The areas of concern and requirements include:
 - Utilization of strong modern authentication techniques for all users, including cloud-native and on-premises directory users.  
