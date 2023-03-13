@@ -12,7 +12,9 @@ aside: true
 
 #AzureSpringClean, #AzureFamily, #CloudFamily, #AZOps
 
-![](images/../../images/Bit23.png)
+
+![](/images/Bit23.png)
+
 
 In this article, you will be provided with guidance toward architecting a Zero Trust Framework within your Azure infrastructure. This will include areas of focus for identity, networking, devices, applications, and data for a defense in depth security design. This article will close with a case study example of how to evaluate and consult for a Zero Trust Framework within your company or customer.
 
