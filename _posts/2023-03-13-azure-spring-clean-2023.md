@@ -10,7 +10,7 @@ aside: true
 
 # Architecting a Zero Trust Framework in Azure #
 
-#AzureSpringClean, #AzureFamily and #AZOps
+#AzureSpringClean, #AzureFamily, #CloudFamily, #AZOps
 
 ![](images/../../images/Bit23.png)
 
