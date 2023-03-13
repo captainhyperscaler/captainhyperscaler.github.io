@@ -191,6 +191,6 @@ Implementing a zero trust framework to your cloud security architecture takes ti
 
 **Resources**
 
-[Zero Trust implementation guidance | Microsoft Learn](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
+[Zero Trust implementation guidance](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview)
 
-[Zero Trust Model - Modern Security Architecture | Microsoft Security](https://www.microsoft.com/en-us/security/business/zero-trust/?ef_id=_k_353a143435bc1ff6a92877c82a78eb57_k_&OCID=AIDcmmdamuj0pc_SEM_k_353a143435bc1ff6a92877c82a78eb57_k_&msclkid=353a143435bc1ff6a92877c82a78eb57)
+[Zero Trust Model - Modern Security Architecture](https://www.microsoft.com/en-us/security/business/zero-trust/?ef_id=_k_353a143435bc1ff6a92877c82a78eb57_k_&OCID=AIDcmmdamuj0pc_SEM_k_353a143435bc1ff6a92877c82a78eb57_k_&msclkid=353a143435bc1ff6a92877c82a78eb57)
