@@ -1,7 +1,7 @@
 ---
 title: About Captain Hyperscaler
-feature_text: |
-  ## 
+# feature_text: |
+   
   
 feature_image: "https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/2023/banner/banner%20logo_without_background.png?raw=true"
 excerpt: "Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
