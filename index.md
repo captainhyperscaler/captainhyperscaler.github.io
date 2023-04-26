@@ -2,14 +2,14 @@
 title: About Captain Hyperscaler
 feature_text: |
   ## Captain Hyperscaler
-  The Journey to the Cloud Continues...
-feature_image: "https://picsum.photos/1300/400?image=989"
+  
+feature_image: "https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/2023/banner/banner%20logo_without_background.png?raw=true"
 excerpt: "Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
 
 Information is also posted here about user groups and events that I am involved in and content that I find helpful from others within the community."
 aside: true
 ---
-![](/images/captain-hyperscaler-logo.png)
+![](/images/2023/vertical logo/vertical%20logo_without_background.png)
 
 Captain Hyperscaler was created to share information about cloud technologies and the path to certification.  Information is provided to help provide others with motivation on their own journey by seeing how I have progressed on my journey.  
 
