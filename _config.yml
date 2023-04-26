@@ -109,23 +109,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/images/2023/rectangular%20logo/rectangular%20logo_without_backgriund.png'
-  32: '/images/2023/superheros/superhero%20arms%20in%20hip_without_background.png'
-  96: '/images/2023/superheros/superhero%20one%20arm%20up_without_background.png'
-  120: '/images/2023/superheros/superhero%20two%20arms%20up_without_background.png'
-  144: '/images/2023/superheros_flying/superhero$20fly%201_without_background.png'
-  180: '/images/2023/superheros_flying/superhero%20fly%202_without_backgroun.png'
-  512: '/images/2023/superheros_flying/superhero$20fly%201_without_background.png'
-  1024: '/images/2023/superheros_flying/superhero%20fly%202_without_backgroun.png'
-
-#  16: '/assets/logos/logo@16px.png'
-#  32: '/assets/logos/logo@32px.png'
-#  96: '/assets/logos/logo@96px.png'
-#  120: '/assets/logos/logo@120px.png'
-#  144: '/assets/logos/logo@144px.png'
-#  180: '/assets/logos/logo@180px.png'
-#  512: '/assets/logos/logo@512px.png'
-#  1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
