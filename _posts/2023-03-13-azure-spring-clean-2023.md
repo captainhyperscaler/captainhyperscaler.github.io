@@ -2,7 +2,7 @@
 title: Architecting a Zero Trust Framework in Azure
 categories:
 - 'Community'
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
 aside: true
 ---
 
