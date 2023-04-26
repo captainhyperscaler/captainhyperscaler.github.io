@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Captain Hyperscaler" # Site name or title, also used in jekyll-seo-tag
-logo: "/images/2023/rectangular logo_v2/rectangular%20logo_v2_without_backgroun.png" # Site logo, also used in jekyll-seo-tag
+logo: "/images/2023/rectangular%20logo_v2/rectangular%20logo_v2_without_backgroun.png" # Site logo, also used in jekyll-seo-tag
 description: "Captain Hyperscaler was created to share information about cloud technologies and the path to certification." # Site description and default description, also used in jekyll-seo-tag
 url: "https://captainhyperscaler.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
