@@ -67,7 +67,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
+    feature_image: "https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/2023/cloud%20only%20logo/cloud%20logo_without_background.png?raw=true"
 
 # 6. Jekyll collections settings
 defaults:
@@ -132,6 +132,8 @@ navigation_header:
   url: http://gimmecloudtalks.com
 - title: Azure Back to School
   url: http://azurebacktoschool.com
+- title: Connecting in the Clouds
+  url: https://youtube.com/@ConnectingintheClouds
   
 #- title: Elements url: /elements/
 # - title: Search  url: /search/
