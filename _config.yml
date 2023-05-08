@@ -66,8 +66,8 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/2023/cloud%20only%20logo/cloud%20logo_without_background.png?raw=true"
+      
+    feature_image: "https://github.com/captainhyperscaler/captainhyperscaler.github.io/blob/main/images/2023/cloud_logo_blog.png?raw=true"
 
 # 6. Jekyll collections settings
 defaults:
