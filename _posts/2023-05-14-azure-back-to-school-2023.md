@@ -6,7 +6,7 @@ feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhype
 aside: true
 ---
 
-![Azure Back to School Logo](/images/azurebacktoschool-logo1.png)
+![Azure Back to School Logo](/images/2023/Azure_rectangular_logo.jpg)
 
 ## **2023 Call for Speakers/Presenters**
 
