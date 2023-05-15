@@ -1,7 +1,7 @@
 ---
 title: Azure Back to School 2023 - Call for Speakers
 categories:
-- 'Azure Back to School'
+- 'Community'
 feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
 aside: true
 ---
