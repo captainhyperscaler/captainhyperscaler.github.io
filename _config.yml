@@ -128,7 +128,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Company
-- url: https://captainhyperscaler.com
+  url: https://captainhyperscaler.com
 - title: Categories
   url: /categories/
 - title: Sessionize Profile
