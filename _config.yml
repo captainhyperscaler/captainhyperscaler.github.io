@@ -44,8 +44,11 @@ author: Dwayne Natwick # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Dwayne Natwick # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://captainhyperscaler.com
     - https://twitter.com/DwayneNcloud
+    - https://twitter.com/CHyperscaler
     - https://www.linkedin.com/in/dnatwick
+    - https://www.linkedin.com/company/96917875/admin/feed/posts/
     - https://github.com/dwnatwick
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
