@@ -1,5 +1,5 @@
 ---
-title: Cloud Security - Are you revisiting your risk analysis?
+title: Cloud Security - Are you revisiting your risk analysis
 categories:
 - 'Community'
 feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
