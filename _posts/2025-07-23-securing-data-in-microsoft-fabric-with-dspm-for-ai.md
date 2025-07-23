@@ -1,3 +1,10 @@
+---
+title: Microsoft Purview - Securing Data in Microsoft Fabric with DSPM for AI
+categories:
+- 'Technical'
+feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
+aside: true
+---
 
 # 🔐 Securing Data in Microsoft Fabric with DSPM for AI
 
