@@ -1,5 +1,5 @@
 ---
-title: Technical Education vs. Industry Certifications
+title: Technical Education vs Industry Certifications
 categories:
 - 'Certifications'
 feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
@@ -144,3 +144,4 @@ Reach out to Hyperscaler Academy (https://chsacademy.org) for more information o
 ---
 
 For those ready to chart their path, consider mapping your desired role’s required competencies against degree curricula and certification tracks. Then build a personalized learning journey that balances theoretical rigor with applied expertise.
+
