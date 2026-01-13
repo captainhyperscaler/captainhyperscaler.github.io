@@ -8,7 +8,6 @@ aside: true
 
 ## Organizing Your Data Estate for AI: Governance and Digital Trust
 
-### By Dwayne Natwick, CISSP, CISSP-ISSMP, CISSP-ISSAP, CCSP, CGRC, CSSLP, SSCP, CC (C) – ISC2 Authorized Instructor
 
 Artificial intelligence initiatives rely on high-quality, well-governed data. Without a clear strategy to discover, classify, and protect sensitive information—including personally identifiable information (PII)—organizations risk compliance violations, data breaches, and erosion of stakeholder trust. This article outlines a five-step approach to prepare your data estate for AI, emphasizing governance, privacy, and digital trust.
 
