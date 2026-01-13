@@ -8,7 +8,6 @@ aside: true
 
 ## Why Developers Must Bake Security into App Development from Day One
 
-### By Dwayne Natwick, CISSP, CISSP-ISSMP, CISSP-ISSAP, CCSP, CGRC, CSSLP, SSCP, CC (C) – ISC2 Authorized Instructor
 
 In an era where data breaches and application-layer attacks make headlines, developers hold the keys to safeguarding sensitive information. Waiting until after launch to address security leaves applications—and their users—exposed. By embedding security considerations into every phase of app development, teams can reduce risk, accelerate delivery, and build products that inspire trust.
 
