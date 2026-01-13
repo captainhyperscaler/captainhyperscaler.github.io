@@ -8,7 +8,6 @@ aside: true
 
 ## Building Governance Strategies and Fostering a Risk-Aware Culture Through Frameworks
 
-### By Dwayne Natwick, CISSP, CISSP-ISSMP, CISSP-ISSAP, CCSP, CGRC, CSSLP, SSCP, CC (C) – ISC2 Authorized Instructor
 
 In today’s threat landscape, building cyber resilience requires more than technology controls—it demands governance strategies and a risk-aware culture that permeates every level of the organization. By leveraging established frameworks such as ITIL, ISO/IEC, NIST, and ISACA’s COBIT, businesses can translate high-level principles into customizable, actionable processes for engineering data protection and minimizing exposure.
 
