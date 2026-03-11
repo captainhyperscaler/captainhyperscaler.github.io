@@ -14,7 +14,7 @@ aside: true
 | Category | ISACA | ISC2 |
 |----------|--------|--------|
 | IT Audit | ⭐ Strong (CISA) | Limited |
-| Cybersecurity Operations | Strong (CSX‑P) | Strong (SSCP, CCSP) |
+| Cybersecurity Operations | Strong (CCOA) | Strong (SSCP, CCSP) |
 | Governance | ⭐ Very Strong (CGEIT, COBIT) | Moderate (CISSP governance domain) |
 | Risk Management | Strong (CRISC) | Moderate (CISSP, CGRC) |
 | Privacy | Strong (CDPSE) | Moderate (privacy in CISSP/CCSP) |
@@ -29,7 +29,7 @@ aside: true
 | Aspect | ISACA | ISC2 |
 |--------|--------|--------|
 | Entry-Level | ITCA | CC |
-| Technical Path | CSX‑P | SSCP → CCSP |
+| Technical Path | CCOA | SSCP → CCSP |
 | Audit Path | ⭐ CISA | Limited |
 | Risk Path | CRISC | CGRC |
 | Privacy Path | CDPSE | None dedicated |
@@ -43,7 +43,7 @@ aside: true
 | Role | Best Fit |
 |------|----------|
 | IT Auditor | **ISACA (CISA)** |
-| Cybersecurity Analyst | Both (CSX‑P vs SSCP) |
+| Cybersecurity Analyst | Both (CCOA vs SSCP) |
 | Cloud Security Engineer | **ISC2 (CCSP)** |
 | Risk Manager | **ISACA (CRISC)** |
 | Privacy Engineer | **ISACA (CDPSE)** |
@@ -102,7 +102,7 @@ Think of it as **two parallel tracks** that converge at senior and leadership le
                                            │
                                            ▼
         ┌──────────────────────────────────────────────────────────────────────────┐
-        │ ISACA TRACK: CISA (Audit), CSX‑P (Cybersecurity Practitioner)           │
+        │ ISACA TRACK: CISA (Audit), CCOA (Cybersecurity Operations Analyst)      │
         │ ISC2 TRACK: SSCP (Ops), CCSP (Cloud Security)                           │
         └──────────────────────────────────────────────────────────────────────────┘
                                            │
@@ -171,8 +171,8 @@ Think of it as **two parallel tracks** that converge at senior and leadership le
 |-------|------------|-----------|
 | 6–12 | Begin CISA | Begin SSCP |
 | 12 | Earn CISA | Earn SSCP |
-| 12–18 | Begin CSX‑P | Begin CCSP |
-| 18–24 | Earn CSX‑P | Earn CCSP |
+| 12–18 | Begin CCOA | Begin CCSP |
+| 18–24 | Earn CCOA | Earn CCSP |
 
 ---
 
@@ -193,7 +193,7 @@ Think of it as **two parallel tracks** that converge at senior and leadership le
 
 | Timeline | ISACA Path | ISC2 Path |
 |----------|------------|-----------|
-| Year 2–3 | CSX‑P | CCSP |
+| Year 2–3 | CCOA | CCSP |
 | Year 3–4 | Cloud Governance | Cloud IR / Threat Modeling |
 | Year 4–5 | Emerging Tech | CISSP prep |
 
@@ -212,7 +212,7 @@ Think of it as **two parallel tracks** that converge at senior and leadership le
 
 # 🧩 **Dual‑Track Role‑Based Competency Matrix**
 
-| Role | ITCA | CC | CISA | SSCP | CSX‑P | CCSP | CRISC | CDPSE | CGRC | CISM | CISSP | CGEIT | ISSAP/ISSEP/ISSMP |
+| Role | ITCA | CC | CISA | SSCP | CCOA | CCSP | CRISC | CDPSE | CGRC | CISM | CISSP | CGEIT | ISSAP/ISSEP/ISSMP |
 |------|------|----|-------|-------|--------|--------|--------|--------|--------|--------|--------|--------|----------------------|
 | Junior IT Auditor | F | F | I | – | – | – | – | – | – | – | – | – | – |
 | IT Auditor | I | I | A | – | – | – | I | – | – | – | – | – | – |
