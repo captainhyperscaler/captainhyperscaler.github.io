@@ -21,13 +21,13 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
 | IT Foundations          | ITF+, A+, Network+, Server+                 | ITCA (IT Certified Associate)                   | CC (Certified in Cybersecurity)                |
 | Core Security           | Security+                                   | Cybersecurity Fundamentals                      | CC, SSCP                                      |
 | Cyber Ops / SOC         | CySA+, Security+                            | CCOA                                           | SSCP, CISSP (ops domains)                      |
-| Cloud Security          | Cloud+, SecurityX / SecurityX / CASP+                               | Cloud Governance certs                          | CCSP                                           |
+| Cloud Security          | Cloud+, SecurityX / CASP+                               | Cloud Governance certs                          | CCSP                                           |
 | IT Audit                | –                                           | **CISA**                                        | Limited (CISSP audit domains)                  |
-| Risk Management         | – (indirect via Sec+/CySA+/SecurityX / SecurityX / CASP+)           | **CRISC**                                       | CGRC, CISSP risk domains                       |
+| Risk Management         | – (indirect via Sec+/CySA+/SecurityX/CASP+)           | **CRISC**                                       | CGRC, CISSP risk domains                       |
 | Governance              | –                                           | **CGEIT, COBIT**                                | CISSP governance, CGRC                         |
 | Privacy                 | –                                           | **CDPSE**                                       | Embedded in CISSP/CCSP                         |
-| Advanced Security Arch  | SecurityX / SecurityX / CASP+                                       | –                                               | **CISSP, ISSAP, ISSEP**                        |
-| Leadership / Management | SecurityX / SecurityX / CASP+, Project+                             | **CISM, CGEIT**                                 | **CISSP, ISSMP**                               |
+| Advanced Security Arch  | SecurityX / CASP+                                       | –                                               | **CISSP, ISSAP, ISSEP**                        |
+| Leadership / Management | SecurityX / CASP+, Project+                             | **CISM, CGEIT**                                 | **CISSP, ISSMP**                               |
 | AI / Data               | **AI+, Data+**                              | Data/privacy via CDPSE                          | AI mostly implicit (risk, cloud, governance)   |
 
 ---
