@@ -1,4 +1,3 @@
-
 ---
 title: ISC2 vs ISACA Certification and Training Comparison
 categories:
