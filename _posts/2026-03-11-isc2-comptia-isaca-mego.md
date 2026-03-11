@@ -60,7 +60,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
 - **CompTIA:**  
   - **Network+**, **Security+**, Cloud+ (optional)
 - **ISACA:**  
-  - **CISA** (IT Audit), CCOA (Cybersecurity Practitioner)
+  - **CISA** (IT Audit), CCOA (Cybersecurity Operations Analyst)
 - **ISC2:**  
   - **SSCP** (operations), CCSP (early cloud), CC (if not already)
 
@@ -105,7 +105,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
 **Goal:** Own architecture, programs, or major domains.
 
 - **CompTIA:**  
-  - **SecurityX / SecurityX / CASP+** (Advanced Security Practitioner)
+  - **SecurityX / CASP+** (Advanced Security Practitioner)
 - **ISACA:**  
   - **CISM** (Security Management)  
   - **CGEIT** (Governance of Enterprise IT)
@@ -128,7 +128,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
 **Goal:** Lead functions, influence strategy, talk to the board.
 
 - **CompTIA:**  
-  - **SecurityX / SecurityX / CASP+** (advanced use), Project+ (optional)
+  - **SecurityX / CASP+** (advanced use), Project+ (optional)
 - **ISACA:**  
   - **CISM**, **CGEIT**, CDPSE (for privacy leadership)
 - **ISC2:**  
@@ -193,7 +193,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
                                            │
                                            ▼
       ┌───────────────────────────────────────────────────────────────────────────┐
-      │ CompTIA: SecurityX / SecurityX / CASP+                                                            │
+      │ CompTIA: SecurityX / CASP+                                                │
       │ ISACA: CISM, CGEIT                                                        │
       │ ISC2: CISSP, ISSAP, ISSEP                                                 │
       └───────────────────────────────────────────────────────────────────────────┘
@@ -206,7 +206,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
                                            │
                                            ▼
       ┌───────────────────────────────────────────────────────────────────────────┐
-      │ CompTIA: SecurityX / SecurityX / CASP+ (adv), Project+ (opt)                                      │
+      │ CompTIA: SecurityX / CASP+ (adv), Project+ (opt)                                      │
       │ ISACA: CISM, CGEIT, CDPSE (privacy leadership)                            │
       │ ISC2: CISSP‑ISSMP, CISSP as baseline                                      │
       └───────────────────────────────────────────────────────────────────────────┘
@@ -236,7 +236,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
   - CompTIA: Network+, Security+, Cloud+  
   - ISC2: **CCSP**, CISSP  
 - **Add‑ons:**  
-  - CompTIA: SecurityX / SecurityX / CASP+ (architecture)  
+  - CompTIA: SecurityX / CASP+ (architecture)  
   - ISACA: Cloud Governance, COBIT (for governance‑heavy orgs)
 
 ---
@@ -267,7 +267,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
 
 - **Core:**  
   - ISC2: **CISSP**, **ISSAP**, **ISSEP**  
-  - CompTIA: **SecurityX / SecurityX / CASP+**, CySA+, PenTest+  
+  - CompTIA: **SecurityX / CASP+**, CySA+, PenTest+  
 - **Support:**  
   - ISACA: CISM (management), CRISC (risk), CGEIT (governance)
 
@@ -280,7 +280,7 @@ This is the “single pane of glass” view: how **CompTIA**, **ISACA**, and **I
   - ISC2: **CISSP**, **ISSMP**  
 - **Support:**  
   - ISACA: CDPSE (if privacy is big)  
-  - CompTIA: SecurityX / SecurityX / CASP+ (for technical credibility), Project+ (for program delivery)  
+  - CompTIA: SecurityX / CASP+ (for technical credibility), Project+ (for program delivery)  
 
 ---
 
