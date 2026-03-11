@@ -255,6 +255,7 @@ For senior architects designing enterprise‑wide security programs.
                                   ▼
          ┌──────────────────────────────────────────────────────────┐
          │                 SPECIALTY CERTIFICATES                    │
+         │  • Secure AI Workshop                                     │
          │  • Zero Trust Architecture                                │
          │  • Threat Modeling                                        │
          │  • Cloud Incident Response                                │
