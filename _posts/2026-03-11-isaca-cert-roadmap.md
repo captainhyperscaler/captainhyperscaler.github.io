@@ -38,7 +38,7 @@ ITCA validates readiness for junior roles in IT, audit, and cybersecurity.
 
 ---
 
-### **🟩 CSX-P / Cybersecurity Fundamentals Certificate**  
+### **🟩 Cybersecurity Fundamentals**  
 Focuses on:  
 - Threat landscape  
 - Security controls  
@@ -82,7 +82,7 @@ CISA is the global standard for IT audit and assurance roles.
 
 ---
 
-### **🟦 CSX-P / Cybersecurity Practitioner**  
+### **🟦 CCOA / Cybersecurity Operations Analyst certification**  
 Focuses on:  
 - Threat detection  
 - Incident response  
@@ -281,7 +281,7 @@ Everything is in Markdown so you can drop it into documentation, Confluence, Git
                                   │
                                   ▼
                    ┌────────────────────────────────────┐
-                   │                CSX‑P               │
+                   │                CCOA               │
                    │     (Cybersecurity Practitioner)    │
                    └──────────────┬─────────────────────┘
                                   │
@@ -365,8 +365,8 @@ Everything is in Markdown so you can drop it into documentation, Confluence, Git
 |-------|----------|
 | 6–12 | Begin CISA training |
 | 12 | Earn CISA |
-| 12–18 | Begin CSX‑P or COBIT Foundation |
-| 18–24 | Earn CSX‑P or complete specialty certificates |
+| 12–18 | Begin CCOA or COBIT Foundation |
+| 18–24 | Earn CCOA or complete specialty certificates |
 
 ---
 
@@ -382,7 +382,7 @@ Everything is in Markdown so you can drop it into documentation, Confluence, Git
 | Timeline | Activity |
 |----------|----------|
 | Year 2–3 | Deepen audit or security operations |
-| Year 3–4 | Earn CSX‑P |
+| Year 3–4 | Earn CCOA |
 | Year 4–5 | Add Cloud Governance or Emerging Tech certificates |
 
 ---
@@ -407,7 +407,7 @@ Everything is in Markdown so you can drop it into documentation, Confluence, Git
 
 # 🧩 **Role‑Based Competency Matrix (ISACA)**
 
-| Role | ITCA | CISA | CSX‑P | CRISC | CDPSE | CISM | CGEIT |
+| Role | ITCA | CISA | CCOA | CRISC | CDPSE | CISM | CGEIT |
 |------|------|-------|--------|--------|--------|--------|--------|
 | Junior IT Auditor | F | I | – | – | – | – | – |
 | IT Auditor | I | A | – | I | – | – | – |
