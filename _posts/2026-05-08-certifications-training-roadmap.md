@@ -1,4 +1,10 @@
-
+---
+title: Building a certification and skills roadmap
+categories:
+- 'Certifications'
+feature_image: "https://raw.githubusercontent.com/captainhyperscaler/captainhyperscaler.github.io/main/images/2023/banner/banner%20logo_without_background.png"
+aside: true
+---
 
 
 ## **Building a certification and skills roadmap…and taking it seriously**
