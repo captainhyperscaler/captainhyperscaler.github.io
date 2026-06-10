@@ -385,21 +385,21 @@ For senior architects designing enterprise‑wide security programs.
 
 ## **Competency Matrix**
 
-| Role | CC | SSCP | CGRC | CCSP | CISSP | ISSAP | ISSEP | ISSMP |
-|------|----|------|------|------|--------|--------|--------|--------|
-| **SOC Analyst (Tier 1)** | F | I | – | – | – | – | – | – |
-| **SOC Analyst (Tier 2–3)** | I | A | – | I | – | – | – | – |
-| **Security Engineer** | I | A | – | A | I | – | – | – |
-| **Cloud Security Engineer** | I | I | – | A | I | – | – | – |
-| **Threat Hunter** | I | A | – | I | I | – | – | – |
-| **Penetration Tester** | I | I | – | – | I | – | – | – |
-| **GRC Analyst** | I | – | A | – | I | – | – | – |
-| **Risk Manager** | I | – | A | – | I | – | – | – |
-| **Security Architect** | I | I | – | A | A | A | – | – |
-| **Cloud Architect** | I | – | – | A | A | A | – | – |
-| **DevSecOps Lead** | I | A | – | A | A | – | A | – |
-| **Security Program Manager** | I | – | A | – | A | – | – | A |
-| **CISO / Director** | I | – | A | – | A | – | – | E |
+| Role | CC | SSCP | CGRC | CCSP | CISSP | ISSAP | ISSEP | ISSMP | CSSLP |
+|------|----|------|------|------|--------|--------|--------|--------|--------|
+| **SOC Analyst (Tier 1)** | F | I | – | – | – | – | – | – | – |
+| **SOC Analyst (Tier 2–3)** | I | A | – | I | – | – | – | – | I |
+| **Security Engineer** | I | A | – | A | I | – | – | – | I |
+| **Cloud Security Engineer** | I | I | – | A | I | – | – | – | – |
+| **Threat Hunter** | I | A | – | I | I | – | – | – | – |
+| **Penetration Tester** | I | I | – | – | I | – | – | – | – |
+| **GRC Analyst** | I | – | A | – | I | – | – | – | – |
+| **Risk Manager** | I | – | A | – | I | – | – | – | – |
+| **Security Architect** | I | I | – | A | A | A | – | – | I |
+| **Cloud Architect** | I | – | – | A | A | A | – | – | I |
+| **DevSecOps Lead** | I | A | – | A | A | – | A | – | E |
+| **Security Program Manager** | I | – | A | – | A | – | – | A | – |
+| **CISO / Director** | I | – | A | – | A | – | – | E | – |
 
 ---
 
